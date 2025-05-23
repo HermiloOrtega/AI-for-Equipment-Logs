@@ -1,4 +1,4 @@
-# ⚙️ Applying AI for Equipment Logs
+# ⚙️ AI for Equipment Logs
 
 ## 🧭 Overview
 **Applying AI for Equipment Logs** is a Microsoft Power Automate project designed to automate the extraction and analysis of data from structured equipment log sheets uploaded to SharePoint. The extracted data is then stored in Excel and visualized through a Power BI dashboard embedded within the **Quattrofy** web application. This project supports decision-making on equipment maintenance vs. replacement by identifying service costs over time.

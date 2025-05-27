@@ -12,6 +12,11 @@ This initiative was built as part of Quattro Constructors’ digital transformat
 
 ---
 
+### Flow
+![Screenshot](./assets/1.jpg)
+
+---
+
 ## ✨ Features & Functionality
 - **AI-Driven Data Extraction** from structured PDF equipment logs
 - **Trigger-based Automation** using SharePoint folder upload
